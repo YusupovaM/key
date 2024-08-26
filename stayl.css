@@ -1,0 +1,13 @@
+.box{
+width: 600px;
+height: 250px;
+background-color: rgb(211, 22, 22);
+color: aliceblue;
+font-size: 46px;
+text-align: center;
+margin: 0 auto;
+}
+.title{
+    text-align: center;
+    background-color: blue;
+}
